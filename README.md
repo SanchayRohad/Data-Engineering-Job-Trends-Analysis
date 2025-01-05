@@ -8,7 +8,7 @@ A comprehensive analysis of data engineering job roles, focusing on the most in-
 - **Insights Dashboard:** Visualizes job market trends for effective decision-making.  
 - **Automation:** Uses Python and web scraping for up-to-date data collection.  
 
-[image](https://github.com/SanchayRohad/Data-Engineering-Job-Trends-Analysis/blob/754590a1c7dc99ba408bbeb826dc34cf41c56b35/AWS-DE-LinkedIN-Job-architecture.png)
+![image](https://github.com/SanchayRohad/Data-Engineering-Job-Trends-Analysis/blob/754590a1c7dc99ba408bbeb826dc34cf41c56b35/AWS-DE-LinkedIN-Job-architecture.png)
 
 ## Technologies Used  
 - **Python:** Data extraction, processing, and analysis.  
