@@ -11,11 +11,9 @@ A comprehensive analysis of data engineering job roles, focusing on the most in-
 ![image](https://github.com/SanchayRohad/Data-Engineering-Job-Trends-Analysis/blob/754590a1c7dc99ba408bbeb826dc34cf41c56b35/AWS-DE-LinkedIN-Job-architecture.png)
 
 ## Technologies Used  
-- **Python:** Data extraction, processing, and analysis.  
-- **BeautifulSoup & Selenium:** Web scraping job postings.  
-- **Pandas:** Data cleaning and transformation.  
-- **Matplotlib & Seaborn:** Data visualization.  
-- **Jupyter Notebooks:** Exploratory data analysis.  
+- **Jupyter Notebooks, Python and BeautifulSoup :** Web scraping job postings.  
+- **AWS Glue, ETL, ATHENA:** Data cleaning and transformation.  
+- *AWS QUICKSIGHT:** Data visualization.  
 
 ## Insights  
 - Top Programming Languages: Python, Java, and Scala dominate the field.  
