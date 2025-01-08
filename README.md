@@ -20,11 +20,6 @@ A comprehensive analysis of data engineering job roles, focusing on the most in-
 - Popular Cloud Platforms: AWS is the most frequently mentioned, followed by Azure and GCP.  
 - In-demand Tools: Apache Spark, Hadoop, and Airflow lead the list of big data tools.  
 
-## How to Use  
-1. Clone the repository:  
-   ```bash  
-   git clone https://github.com/<your-username>/data-engineering-job-trends-analysis.git  
-
 
 ## Check detail steps on kaggle 
 [https://www.kaggle.com/code/sanchayr/dataengineering-linkedin-job-analysis-with-aws](https://www.kaggle.com/code/sanchayr/dataengineering-linkedin-job-analysis-with-aws)
