@@ -19,7 +19,7 @@ A comprehensive analysis of data engineering job roles, focusing on the most in-
 - Top Programming Languages: Python, Java, and Scala dominate the field.  
 - Popular Cloud Platforms: AWS is the most frequently mentioned, followed by Azure and GCP.  
 - In-demand Tools: Apache Spark, Hadoop, and Airflow lead the list of big data tools.  
-
+[dashboard](https://github.com/SanchayRohad/Data-Engineering-Job-Trends-Analysis/blob/e5f119780f6c1ef1336d6316779321bbd273e856/dashboard.pdf)
 
 ## Check detail steps on kaggle 
 [https://www.kaggle.com/code/sanchayr/dataengineering-linkedin-job-analysis-with-aws](https://www.kaggle.com/code/sanchayr/dataengineering-linkedin-job-analysis-with-aws)
